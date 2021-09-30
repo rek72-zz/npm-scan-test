@@ -36,7 +36,7 @@
     "velocity-animate": "1.5.0",
     "whatwg-fetch": "2.0.3",
     "x-editable": "1.5.1",
-    "aegir": "12.0.6",
+    "aegir": "19.0.0",
     "ws": "3.1.0"
   },
   "peerDependencies": {},
